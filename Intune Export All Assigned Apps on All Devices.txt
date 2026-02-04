@@ -1,0 +1,1 @@
+Script Link : -    https://github.com/ChanderManiPandey2022/Intune-Export-All-Assigned-Apps-on-All-Devices/releases/download/v1.0/Intune.Export.All.Assigned.Apps.on.All.Devices.ps1
